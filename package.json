@@ -2,7 +2,7 @@
     "name": "vamtiger-organization-infers-group-json-ld",
     "version": "0.0.2-0",
     "description": "VAMTIGER Organization Infers Group JSON-LD",
-    "main": "build",
+    "main": "build/vamtiger-organization-infers-group-json-ld",
     "scripts": {
         "test": "npm run clean && npm run build && npm run bundle-node-test && npm run bundle-browser-test && npm run mocha && npm run bundle-source",
         "mocha": "mocha build/test/node --recursive",
