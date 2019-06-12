@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-organization-infers-group-json-ld';
+export const url = 'https://cdn.jsdelivr.net/npm/vamtiger-organization-infers-group-json-ld@latest/build/vamtiger-organization-infers-group-json-ld.js';

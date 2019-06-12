@@ -24,7 +24,7 @@ const jsonLd = {
         translatable into SADC and global markets.
     `,
     url: 'http://infersgroup.com',
-    email: 'mailto:info@infersgroup.com'
+    email: 'info@infersgroup.com'
 };
 
 export default [
